@@ -1,0 +1,15 @@
+{
+    "name": "CloudCamp Organization Workflow",
+    "description": "CloudCamp CI starter workflow.",
+    "iconName": "ccamp",
+    "categories": [
+        "Go",
+        "continuous-integration"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
+
